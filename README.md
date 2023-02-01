@@ -1,6 +1,6 @@
 # Matplotlib-Module-5-Assignment
 
-Data.ipynb file includes all assigned analyis
+Data.ipynb file includes all assigned analysis
 
 Assignment Information:
 
